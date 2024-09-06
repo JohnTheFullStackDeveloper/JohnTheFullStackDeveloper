@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @JohnTheFullStackDeveloper
 - 👀 I’m interested in Coding
 - 🌱 I’m currently learning AndroidStudio
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
 - ⚡ Fun fact: I Am A Programmer
 
 <!---
